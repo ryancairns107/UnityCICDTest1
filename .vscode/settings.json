@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UnityCICDTest.sln"
+    "dotnet.defaultSolution": "UnityCICDTest1.sln"
 }
