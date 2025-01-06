@@ -31,7 +31,6 @@ jobs:
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           unityVersion: 6000.0.25f1
-          projectPath: C:\personal\MetaverseSolutions\UnityCICDTest1
 
       # Build
       - name: Build Project
